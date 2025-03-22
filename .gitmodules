@@ -1,0 +1,3 @@
+[submodule "spike-devices"]
+	path = spike-devices
+	url = git@github.com:Agonisia/spike-devices.git
